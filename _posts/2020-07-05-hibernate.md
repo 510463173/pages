@@ -1,6 +1,6 @@
 ---
 title: Hibernate
-tags: Java,ORM
+tags: ["Java", "ORM"]
 article_header:
   type: cover
   image:
