@@ -4,7 +4,7 @@ tags: ["Java", "ORM"]
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /imgs/002.jpg
 ---
 Hibernate
 ---
