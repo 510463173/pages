@@ -6,8 +6,9 @@ article_header:
   image:
     src: /assets/pages_data/images/002.jpg
 ---
+
 Hibernate
----
+--
 
 Table of Contents
 <!-- TOC -->
